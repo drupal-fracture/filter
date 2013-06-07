@@ -31,7 +31,7 @@
   margin: 0;
 }
 .filter-help a {
-  background: transparent url(../../misc/help.png) right center no-repeat; /* LTR */
+  background: transparent url(../../../misc/help.png) right center no-repeat; /* LTR */
   padding: 0 20px 0 0; /* LTR */
 }
 
